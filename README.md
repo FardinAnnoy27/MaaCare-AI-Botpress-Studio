@@ -22,10 +22,8 @@ An empathetic AI-powered postpartum health companion designed for new mothers in
 
 ## 📸 Screenshots
 
-> Add your screenshots here!
-
+<img width="1176" height="369" alt="studio" src="https://github.com/user-attachments/assets/815e2b60-a624-4d63-96a6-037d42bf27a1" />
 <img width="1176" height="369" alt="chat" src="https://github.com/user-attachments/assets/4ea18600-b153-40ce-80a7-98a096bac644" />
-![Chat Demo](<img width="1176" height="369" alt="studio" src="https://github.com/user-attachments/assets/815e2b60-a624-4d63-96a6-037d42bf27a1" />)
 
 ## 🔗 Live Demo
 
